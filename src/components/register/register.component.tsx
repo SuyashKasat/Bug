@@ -13,7 +13,7 @@ const Register = () => {
     fName: "Developer",
     lName: "Schwarz",
     role: "Developer",
-    email: "developer@nikhil.com",
+    email: "developer@bugtrail.com",
     password: "12345678",
     confirmPassword: "12345678",
   });
