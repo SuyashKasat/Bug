@@ -10,7 +10,7 @@ interface UserLogin {
 const Login = () => {
   const history = useHistory();
   const [userCredentials, setUserCredentials] = useState({
-    email: "developer@nikhil.com",
+    email: "developer@bugtrail.com",
     password: "12345678",
   });
 
